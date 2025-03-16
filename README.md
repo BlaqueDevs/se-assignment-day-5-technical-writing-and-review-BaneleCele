@@ -20,21 +20,21 @@ For Regular Folks:
 - Offer a summary of key points and recommendations for further action or learning.
 
 ## 2. What are some strategies to tailor your content to different audience types?
-1. Audience Profiling: Identify audience characteristics like knowledge levels, interests, and professions.
+- Audience Profiling: Identify audience characteristics like knowledge levels, interests, and professions.
 
-2. Tailored Vocabulary: Adjust tone and vocabulary to match audience sophistication; use formal for professionals, casual for hobbyists.
+- Tailored Vocabulary: Adjust tone and vocabulary to match audience sophistication; use formal for professionals, casual for hobbyists.
 
-3. Content Variants: Create beginner, intermediate, advanced versions or offer a "learn more" section.
+- Content Variants: Create beginner, intermediate, advanced versions or offer a "learn more" section.
 
-4. Visual Aids: Use visuals that fit audience preference; simple for novices, detailed for experts.
+- Visual Aids: Use visuals that fit audience preference; simple for novices, detailed for experts.
 
-5. Interactive Elements: Incorporate quizzes or polls for engagement.
+- Interactive Elements: Incorporate quizzes or polls for engagement.
 
-6. Feedback Loops: Gather and use reader feedback to refine content.
+- Feedback Loops: Gather and use reader feedback to refine content.
 
-7. Analogies and Metaphors: Simplify complex topics for non-experts by relating them to everyday life.
+- Analogies and Metaphors: Simplify complex topics for non-experts by relating them to everyday life.
 
-8. Relevant Context: Provide information relevant to the audience's interests (e.g., business applications for a corporate audience).
+- Relevant Context: Provide information relevant to the audience's interests (e.g., business applications for a corporate audience).
 
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
