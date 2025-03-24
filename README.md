@@ -82,14 +82,10 @@ Visuals further enhance comprehension by breaking down abstract ideas into diges
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 The choice of visuals depends on the type of information being explained:
 
-Diagrams – Best for illustrating systems, workflows, or relationships between components. For example, a network diagram can show how devices connect in a system.
-
-Flowcharts – Ideal for representing step-by-step processes, such as troubleshooting guides or decision-making workflows.
-
-Charts (Bar, Line, Pie) – Useful for displaying numerical data and trends. A line chart can show performance over time, while a bar chart can compare different values.
-
-Tables – Effective for comparing data in an organized format, such as listing system requirements or feature comparisons.
-
+- Diagrams – Best for illustrating systems, workflows, or relationships between components. For example, a network diagram can show how devices connect in a system.
+- Flowcharts – Ideal for representing step-by-step processes, such as troubleshooting guides or decision-making workflows.
+- Charts (Bar, Line, Pie) – Useful for displaying numerical data and trends. A line chart can show performance over time, while a bar chart can compare different values.
+- Tables – Effective for comparing data in an organized format, such as listing system requirements or feature comparisons.
 
 Choosing the right type of visual helps ensure that the information is conveyed in the clearest and most efficient way possible.
 
